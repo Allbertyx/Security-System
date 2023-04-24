@@ -20,4 +20,4 @@ def generate_frames():
     cap.release()
 
 if __name__ == '__main__':
-    app.run(host='192.168.100.83', port=5000, debug=True)
+    app.run(host='192.168.100.140', port=5000, debug=True)
